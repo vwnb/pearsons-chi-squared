@@ -1,0 +1,105 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "pearsons-chi-squared",
+        "scope": null,
+        "escapedName": "pearsons-chi-squared",
+        "name": "pearsons-chi-squared",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\Users\\dinht\\Desktop\\tetk-processing"
+    ],
+    [
+      {
+        "raw": "pearsons-chi-squared",
+        "scope": null,
+        "escapedName": "pearsons-chi-squared",
+        "name": "pearsons-chi-squared",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\Users\\dinht\\Desktop\\tetk-processing"
+    ],
+    [
+      {
+        "raw": "pearsons-chi-squared",
+        "scope": null,
+        "escapedName": "pearsons-chi-squared",
+        "name": "pearsons-chi-squared",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\Program Files\\nodejs"
+    ]
+  ],
+  "_from": "pearsons-chi-squared",
+  "_id": "pearsons-chi-squared@1.0.8",
+  "_inBundle": false,
+  "_inCache": true,
+  "_integrity": "sha1-GEgaHsvuhJ3BTaRccLOP1eXI6Dc=",
+  "_location": "/pearsons-chi-squared",
+  "_nodeVersion": "7.4.0",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/pearsons-chi-squared-1.0.6.tgz_1488135586976_0.24652332090772688"
+  },
+  "_npmUser": {
+    "name": "vwnb",
+    "email": "ville@vjk.fi"
+  },
+  "_npmVersion": "4.0.5",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "pearsons-chi-squared",
+    "name": "pearsons-chi-squared",
+    "escapedName": "pearsons-chi-squared",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/pearsons-chi-squared/-/pearsons-chi-squared-1.0.8.tgz",
+  "_shasum": "18481a1ecbee849dc14da45c70b38fd5e5c8e837",
+  "_shrinkwrap": null,
+  "_spec": "pearsons-chi-squared",
+  "_where": "/Users/villekemppainen/Documents/npm",
+  "author": {
+    "name": "Ville Kemppainen"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "chi-squared-test": "1.1.0"
+  },
+  "deprecated": false,
+  "description": "Pearson's chi-squared test for contingency tables",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "3fc18f429c06bee948c75105120d50a916e992ca",
+    "tarball": "https://registry.npmjs.org/pearsons-chi-squared/-/pearsons-chi-squared-1.0.6.tgz"
+  },
+  "license": "MIT",
+  "main": "pcstfi.js",
+  "maintainers": [
+    {
+      "name": "vwnb",
+      "email": "ville@vjk.fi"
+    }
+  ],
+  "name": "pearsons-chi-squared",
+  "optionalDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.10"
+}
