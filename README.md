@@ -1,4 +1,5 @@
-Wrapper for the beautiful chi-squared-test module wrapping the beautiful chi-squared module.
+![Pierre Bourdieu's humongous diagram about taste](https://i.imgur.com/G6424Hp.jpg "Distinction: A Social Critique of the Judgement of Taste (Bourdieu, 1972)")
+Wrapper for the beautiful chi-squared-test module wrapping the beautiful chi-squared module. Could be used, for example, to prove the statistical significance of the above graph 😂
 
 Accepts input as a 2-dimensional array representing a two-way categorical (nominal) contingency table.
 
